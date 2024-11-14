@@ -22,7 +22,8 @@ _Estou trabalhando para adicionar meus projetos mais relevantes aqui. Fique liga
 **Curiosidade:**  Além de tecnologia, adoro estudar sobre desenvolvimento humano .  Vamos conectar e trocar ideias!
 
 
-#Languages and Tools:
+#Principais Tech Stack 🧰 
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Airflow" height="60" width="70" src="https://github.com/lgpsouza/devincon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg"> 

@@ -16,6 +16,7 @@ _Estou trabalhando para adicionar meus projetos mais relevantes aqui. Fique liga
 ## 🌱 Aprendizado Contínuo
 
 * **Formação:** Análise e Desenvolvimento de Sistemas & Tecnólogo em Software.
+* **Pós Graduação em Arquitetura e Engenharia de dados( em formação)
 
 ---
 
@@ -29,12 +30,10 @@ _Estou trabalhando para adicionar meus projetos mais relevantes aqui. Fique liga
     <img align="center" alt="Rafa-Airflow" height="60" width="70" src="https://github.com/lgpsouza/devincon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg"> 
     <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
     <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/docker/docker-plain-wordmark.svg">
-    <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/kubernetes/kubernetes-original.svg">
-    <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/terraform/terraform-original.svg">
-    <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/streamlit/streamlit-original.svg">
-    <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/prometheus/prometheus-original.svg">
+    <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" alt="Rafa-Airflow" height="30" width="40" src="https://github.com/lgpsouza/devincon/blob/master/icons/linux/linux-original.svg">
-</div>
+   </div>
 
 
   

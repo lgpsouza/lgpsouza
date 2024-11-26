@@ -5,8 +5,8 @@ Sou um **líder técnico** e **desenvolvedor de software** apaixonado por criar 
 ## 🚀 Minhas Principais Habilidades
 
 * **Liderança Técnica:** Gestão de equipes e projetos, com foco em metodologias ágeis (Scrum/Kanban).
-* **Arquitetura de Software:** Design e implementação de soluções escaláveis e robustas.
-* **SRE (Site Reliability Engineering):** Automação, monitoramento e garantia da disponibilidade e performance de sistemas.
+* **Arquitetura de Dados:** Design e implementação de soluções escaláveis e robustas.
+* **Engenharia de Dados (:** Automação, monitoramento e garantia da disponibilidade de dados.
 
 
 ## 💻 Projetos em Destaque (Em breve! 😉)
